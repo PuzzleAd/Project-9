@@ -19,14 +19,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.heading_bitmap > img{
-    width: 100%;
-    height: 650px;
+    background-image: url(./Images/Bitmap.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .heading_text{
     width: 78%;
-
     padding-top: 64px;
     padding-bottom: 146px;
     position: absolute;
